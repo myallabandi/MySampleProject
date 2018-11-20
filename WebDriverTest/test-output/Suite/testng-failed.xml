@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="dataproviderTest(failed)">
+    <classes>
+      <class name="HttpAuthentication.HandlingHttpAuthentication">
+        <methods>
+          <include name="ExampleTest"/>
+          <include name="launchApplication"/>
+        </methods>
+      </class> <!-- HttpAuthentication.HandlingHttpAuthentication -->
+    </classes>
+  </test> <!-- dataproviderTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
